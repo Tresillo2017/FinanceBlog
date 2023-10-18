@@ -40,7 +40,7 @@ Asegúrate de que los sitios web que utilizas para realizar transacciones financ
 Las estafas financieras a menudo involucran promesas de retornos extremadamente altos con poco o ningún riesgo. Si fuesen ciertas todo el mundo las haría.
 
 ## No te sientas presionado: 
-No tomes decisiones financieras bajo presión. No caigas en el fomo
+No tomes decisiones financieras bajo presión. No caigas en el fomo (miedo de perderse algo)
 
 ## Consulta con asesores financieros de confianza: 
 Antes de realizar inversiones significativas, busca asesoramiento de profesionales financieros de confianza que puedan ayudarte a evaluar tus opciones.
