@@ -1,13 +1,17 @@
 ---
 title: Estafas Financieras
 authors: [tomas, miguel, hector, matias, andres]
-date: 2023-09-23 10:30:00 +0800
+date: 2023-10-18 10:30:00 +0800
 categories: [Grupal]
 tags: [glosario, tema1, grupo]
 comments: true
+toc: true
+image:
+  path: /assets/img/estafas.jpg
+  alt: Estafas Financieras
 ---
 
-# Que son?
+# ¿Qué son?
 
 Las estafas financieras se aprovechan de la falta de conocimiento financiero de muchas personas para robarles su dinero o sus datos bancarios. Hay varios tipos y podemos identificarlos fácilmente.
 
