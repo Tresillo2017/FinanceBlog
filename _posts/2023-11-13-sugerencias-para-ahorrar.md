@@ -5,6 +5,9 @@ date: 2023-11-13 10:30:00 +0800
 categories: [Grupal]
 tags: [tema1, grupo]
 comments: true
+image:
+  path: /assets/img/Dinero.jpg
+  alt: Ahorrar dinero
 ---
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%;
