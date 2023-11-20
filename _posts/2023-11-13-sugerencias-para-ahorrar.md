@@ -3,7 +3,7 @@ title: Sugerencias para ahorrar
 authors: [tomas, miguel, hector, matias, andres]
 date: 2023-11-13 10:30:00 +0800
 categories: [Grupal]
-tags: [glosario, tema1, grupo]
+tags: [tema1, grupo]
 comments: true
 ---
 

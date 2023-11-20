@@ -3,7 +3,7 @@ title: Estafas Financieras
 authors: [tomas, miguel, hector, matias, andres]
 date: 2023-10-18 10:30:00 +0800
 categories: [Grupal]
-tags: [glosario, tema1, grupo]
+tags: [tema1, grupo]
 comments: true
 toc: true
 image:
