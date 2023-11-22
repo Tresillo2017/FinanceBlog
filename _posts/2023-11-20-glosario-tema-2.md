@@ -11,8 +11,8 @@ comments: true
 
 - **Ingresos**: El dinero que una persona o entidad recibe, ya sea por sueldos, salarios, ingresos de inversiones, alquileres u otras fuentes.
 - **Gastos**: El dinero que se destina a la compra de bienes y servicios. Pueden ser gastos diarios, como comida y transporte, o gastos mayores, como pagos de vivienda, deuda o educación.
-- **Deuda**:Ccantidad de dinero que una persona o entidad debe a terceros. Puede ser en forma de préstamos, créditos u otras obligaciones financieras.
-- **Objetivos**: Financieros: metas específicas relacionadas con el manejo del dinero, como ahorrar para la jubilación, comprar una casa o pagar deudas.
+- **Deuda**: Cantidad de dinero que una persona o entidad debe a terceros. Puede ser en forma de préstamos, créditos u otras obligaciones financieras.
+- **Objetivos Financieros**: metas específicas relacionadas con el manejo del dinero, como ahorrar para la jubilación, comprar una casa o pagar deudas.
 - **Impuestos**: Pagos obligatorios al gobierno basados en los ingresos, propiedades o bienes. Los impuestos financian los servicios públicos y programas gubernamentales.
 - **Activos**: Bienes o propiedades que tienen un valor económico y pueden generar ingresos. Ejemplos incluyen propiedades, inversiones y cuentas bancarias.
 - **Pasivos**: Obligaciones financieras, como préstamos o deudas, que requieren pagos futuros.
