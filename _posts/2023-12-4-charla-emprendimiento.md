@@ -10,13 +10,13 @@ toc: true
 
 # Preguntas 
 ## Según el exponente ¿Os debe preocupar lo que vais a hacer en un futuro? ¿Cómo lo justifica?
-El exponente enfatiza la importancia de preocuparse por el futuro, especialmente para los jóvenes. Justifica esto al destacar la relevancia de la educación financiera, la innovación y el emprendimiento para contribuir a la economía y alcanzar el éxito en la vida profesional.
+No debes preocuparte pero si de ocuparte aprendiendo y formando para en un futuro tomar la decision.
 
 ## ¿Cuáles son las carreras STEM demandadas por las empresas?
-
+Technology, Engineering and Maths. A veces se añade Arts quedando como STEAM.
 
 ## Definición de emprender según la RAE. ¿Por qué otra palabra cambiaría “peligro”?
-La RAE define "emprender" como comenzar una obra, un negocio, un empeño, especialmente si encierran dificultad o peligro. Otra palabra que podría sustituir "peligro" sería "riesgo".
+Según la RAE emprender es acometer y comenzar una obra, un negocio, un empeño, especialmente si encierran dificultad o peligro. Peligro lo cambiaría por “riesgo”.
 
 ## ¿Qué piensa un emprendedor que va a pasar cuando lleva a cabo una idea de negocio? ¿Qué suele ocurrir en realidad?
 Un emprendedor suele pensar en el éxito y crecimiento de su idea de negocio. En realidad, pueden enfrentar desafíos, fracasos y dificultades, pero también oportunidades de aprendizaje y crecimiento personal y profesional.
@@ -25,32 +25,32 @@ Un emprendedor suele pensar en el éxito y crecimiento de su idea de negocio. En
 El principal objetivo del Instituto de Fomento es apoyar el desarrollo de negocios y emprendedores, contribuyendo así a la creación de empleo y al crecimiento económico.
 
 ## ¿Qué hacen desde el Instituto de Fomento para intentar que la tasa de paro baje?
-
+Intentar que crezcan empresas ya existentes o ayudar a nuevas empresas a nacer.
 
 ## Ventajas de emprender.
-Las ventajas de emprender, según el texto, incluyen mayor libertad, flexibilidad y un crecimiento profesional más rápido.
+Libertad, flexibilidad, potencia de ganancias, desarrollo personal y profesional, sentimiento de trabajar en algo propio, creatividad y motivación.
 
 ## ¿Qué debe hacer un emprendedor cuando emprende?
-Un emprendedor debe adoptar un enfoque positivo, aprender de los fracasos, contar con un equipo de apoyo, y desarrollar productos únicos e innovadores. Además, se destaca la importancia de la comunicación efectiva y la colaboración con organizaciones como el Instituto de Fomento.
+Rodearse de un buen equipo, buscar una buena idea, tener formación, tener una planificación, pensar como tus clientes, ser diferente a los demás, ser capaz de vender tu producto, tener financiación y tener pasión.
 
 ## ¿Cuáles son los tres primeros inversores que tiene un emprendedor?
-
+Amigos, familiares y tontos.
 
 ## Cita tres ejemplos de emprendedores.
-El video menciona a Pedro Espinosa, fundador de Yao Yao, y a Alex, que abandonó sus actividades exitosas en Madrid para abrir su propio negocio en Murcia. 
+Mark Zuckerberg, Elon Musk, Bill Gates 
 
 ## ¿Qué habilidades tiene que tener una persona que organice el viaje de estudios?
-La persona que organiza el viaje de estudios debe tener habilidades como paciencia, formación de equipos, comunicación efectiva, creatividad, gestión de recursos y investigación de mercado.
+Debe ser responsable, tener contactos, ser ordenado, saber negociar, tener paciencia, saber gestionar el dinero.
 
 ## Creatividad:
 ### Mi hijo se come una pizza en 10 minutos. Mi hija se come una pizza del mismo tamaño en 15 minutos. ¿En cuánto tiempo se comen los dos a la vez una pizza? 
-Para resolver el problema, los dos niños se comerían la pizza juntos en 15 minutos.
+El hijo come 6/h, la hija 4/h. Entonces si comen los dos 10/h, tardan 6 minutos.
 
 ### ¿Cuántos años tienes? Respuesta: “Sin contar los fines de semana, tengo 40 años. ¿Cuántos años tiene en realidad?
-La respuesta indica que tiene 40 años, pero no proporciona información sobre los fines de semana, lo que hace que la respuesta sea incierta.
+11 y medio, sin contar los fines de semana. 16 años.
 
 ### Verdadero o falso: Madrid empieza por “m” y termina por “t”.
-Verdadero. Madrid empieza por "m" y termina por "d".
+Falso. 
 
 ## ¿Cuál de estas frases es verdadera?
 - Exactamente una de estas diez frases es falsa.
@@ -61,7 +61,7 @@ Verdadero. Madrid empieza por "m" y termina por "d".
 - Exactamente seis de estas diez frases son falsas.
 - Exactamente siete de estas diez frases son falsas.
 - Exactamente ocho de estas diez frases son falsas.
-- Exactamente nueve de estas diez frases son falsas.
+- **Exactamente nueve de estas diez frases son falsas.** (Esta es la verdadera.)
 - Exactamente diez de estas diez frases son falsas.
 
 
@@ -69,10 +69,10 @@ Verdadero. Madrid empieza por "m" y termina por "d".
 ## ¿Qué es la asertividad? ¿Y la resiliencia?
 
 ### Asertividad: 
-La asertividad es la capacidad de expresar opiniones, sentimientos y deseos de manera clara y directa, respetando a la vez los derechos de los demás.
+La asertividad es la capacidad de expresar tu opinión de manera firme. 
   
 ### Resiliencia: 
-La resiliencia se refiere a la capacidad de enfrentar y superar situaciones adversas, adaptándose positivamente a ellas y aprendiendo de las experiencias difíciles.
+La resiliencia es la capacidad de adaptarse a las necesidades.
 
 
 
