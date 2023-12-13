@@ -50,7 +50,7 @@ El hijo come 6/h, la hija 4/h. Entonces si comen los dos 10/h, tardan 6 minutos.
 11 y medio, sin contar los fines de semana. 16 años.
 
 ### Verdadero o falso: Madrid empieza por “m” y termina por “t”.
-Falso. 
+Verdadero.
 
 ## ¿Cuál de estas frases es verdadera?
 - Exactamente una de estas diez frases es falsa.
