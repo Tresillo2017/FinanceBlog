@@ -6,6 +6,9 @@ categories: [Grupal]
 tags: [tema2, grupo]
 comments: true
 toc: true
+image:
+  path: /assets/img/prestamo.jpg
+  alt: Prestamo
 ---
 
 # Preguntas
