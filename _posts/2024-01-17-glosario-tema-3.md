@@ -1,9 +1,9 @@
 ---
-title: Glosario Tema 3
+title: Glosario Tema 4
 authors: [tomas, miguel, hector, matias, andres]
 date: 2024-01-17 10:30:00 +0800
 categories: [Grupal]
-tags: [glosario, tema3, grupo]
+tags: [glosario, tema4, grupo]
 comments: true
 ---
 
