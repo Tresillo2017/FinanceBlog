@@ -2,7 +2,9 @@
 
 # Finances Blog
 </div>
-![Status](https://status.tomasps.com/api/badge/36/status?style=for-the-badge)
+
+![Status](https://status.tomasps.com/api/badge/36/status?style=for-the-badget)
+
 ## Credits
 
 This theme is mainly built with [Jekyll](https://jekyllrb.com/) ecosystem,
