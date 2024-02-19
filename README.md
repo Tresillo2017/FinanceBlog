@@ -3,6 +3,8 @@
 # Finances Blog
 </div>
 
+![Status](https://status.tomasps.com/api/badge/36/status?)
+
 ## Credits
 
 This theme is mainly built with [Jekyll](https://jekyllrb.com/) ecosystem,
