@@ -3,7 +3,7 @@
 # Finances Blog
 </div>
 
-![Status](https://status.tomasps.com/api/badge/36/status?style=for-the-badge)
+![Status](https://status.tomasps.com/api/badge/36/status?)
 
 ## Credits
 
