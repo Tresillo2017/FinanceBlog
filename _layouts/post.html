@@ -8,12 +8,14 @@ tail_includes:
   - post-nav
   - comments
 ---
-
 {% include lang.html %}
 
 <article class="px-1">
   <header>
     <h1 data-toc-skip>{{ page.title }}</h1>
+    {% if page.description %}
+      <p class="post-desc fw-light mb-4">{{ page.description }}</p>
+    {% endif %}
 
     <div class="post-meta text-muted">
       <!-- published date -->
@@ -74,12 +76,22 @@ tail_includes:
           </em>
         </span>
 
-        <!-- read time -->
-        {% include read-time.html content=content prompt=true lang=lang %}
+        <div>
+          <!-- pageviews -->
+          {% if site.pageviews.provider and site.analytics[site.pageviews.provider].id %}
+            <span>
+              <em id="pageviews">
+                <i class="fas fa-spinner fa-spin small"></i>
+              </em>
+              {{ site.data.locales[lang].post.pageview_measure }}
+            </span>
+          {% endif %}
+
+          <!-- read time -->
+          {% include read-time.html content=content prompt=true lang=lang %}
+        </div>
       </div>
-      <!-- .d-flex -->
     </div>
-    <!-- .post-meta -->
   </header>
 
   <div class="content">
@@ -137,5 +149,3 @@ tail_includes:
   </div>
   <!-- div.post-tail-wrapper -->
 </article>
-
-<iframe data-aa='2264323' src='//ad.a-ads.com/2264323?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
