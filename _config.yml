@@ -102,7 +102,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: tresillo2017/financeblog # <gh-username>/<repo>
+    repo: tresillo2017/FinanceBlog # <gh-username>/<repo>
     repo_id: R_kgDOKXXTuA
     category: General
     category_id: DIC_kwDOKXXTuM4CfNx2
