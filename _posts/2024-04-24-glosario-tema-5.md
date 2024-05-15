@@ -40,3 +40,25 @@ comments: true
 - **Compra compulsiva:** transtorno psicológico que impide controlar lo que compramos, haciendo que compres excesivamente.
 
 - **Neuromarketing:** especialidad del marketing centrado en estudiar el comportamiento de los consumidores.
+
+- Retargeting: táctica del marketing digital en la que se mandan mensajes a las personas que han interactuado con páginas web específicas.
+
+- **Consumismo digital:** compras que se llevan a cabo en internet.
+
+- **Advergaming:** usar los videojuegos para publicitar productos.
+
+- **Obsolescencia programada e indica un ejemplo con su justificación:** una empresa intencionadamente hace que el producto tras un cierto tiempo se deteriore. Por ejemplo, una impresora que falla tras imprimir una cierta cantidad folios. Esto sirve para forzar a los consumidores a seguir consumiendo.
+
+- **Obsolescencia percibida e indica un ejemplo con su justificación:** se cambia la apariencia de un producto y se vende como uno distinto. Algunos móviles por ejemplo usan esto y sirve para engañar al consumidor a que compre un “nuevo modelo”.
+
+- **Obsolescencia funcional e indica un ejemplo con su justificación:** como la obsolescencia programada pero con un componente determinado, que a veces cuesta más repararla que comprar un producto nuevo. También se usa en productos electrónicos, sobre todo en ordenadores. Y se usa para forzar el consumo.
+
+- **Obsolescencia tecnológica e indica un ejemplo con su justificación:** un nuevo producto sustituye al anterior y este para de recibir reparaciones en tiendas entre otras consecuencias además de parar de recibir actualizaciones de software por ejemplo. Se usa en dispositivos electrónicos también. Y se usa también para forzar el consumo.
+`
+- **Durabilidad de un producto:** tiempo que dura un producto sin necesidad de revisiones.
+
+- **Reparabilidad:** facilidad con la que se puede reparar un producto.
+
+- **Satisfacción material:** que el material sea de calidad cumpliendo los estándares establecidos.
+
+- **Cultura del consumo:** modelo que se usa en nuestra sociedad que se basa en comprar constantemente productos sin tener en cuenta las consecuencias que tiene.
