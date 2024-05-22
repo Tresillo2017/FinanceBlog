@@ -3,7 +3,7 @@ title: Ahorro reduciendo gastos
 authors: [tomas, miguel, hector, matias, andres]
 date: 2024-04-10 10:30:00 +0800
 categories: [Grupal]
-tags: [glosario, grupo]
+tags: [trabajos, grupo]
 comments: true
 image:
   path: /assets/img/gastos.jpg

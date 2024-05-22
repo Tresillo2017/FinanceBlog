@@ -3,7 +3,7 @@ title: La Banca Online
 authors: [tomas, miguel, hector, matias, andres]
 date: 2024-04-17 10:30:00 +0800
 categories: [Grupal]
-tags: [glosario, grupo]
+tags: [trabajos, grupo]
 comments: true
 ---
 

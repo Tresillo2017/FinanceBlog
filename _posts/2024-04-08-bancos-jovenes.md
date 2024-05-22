@@ -3,7 +3,7 @@ title: ¿Qué le ofrecen los bancos a los jóvenes?
 authors: [tomas, miguel, hector, matias, andres]
 date: 2024-04-08 10:30:00 +0800
 categories: [Grupal]
-tags: [glosario, grupo]
+tags: [trabajos, grupo]
 comments: true
 image:
   path: /assets/img/banco.jpg
