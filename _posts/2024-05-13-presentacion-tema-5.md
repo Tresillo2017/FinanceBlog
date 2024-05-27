@@ -3,7 +3,7 @@ title: Presentacion Tema 5
 authors: [tomas, miguel, hector, matias, andres]
 date: 2024-05-13 10:30:00 +0800
 categories: [Grupal]
-tags: [presentacion, grupo]
+tags: [presentacion, grupo, tema5]
 comments: true
 ---
 

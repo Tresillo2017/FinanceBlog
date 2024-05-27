@@ -3,7 +3,7 @@ title: Glosario Tema 5
 authors: [tomas, miguel, hector, matias, andres]
 date: 2024-04-24 10:30:00 +0800
 categories: [Grupal]
-tags: [glosario, grupo]
+tags: [glosario, grupo, tema5]
 comments: true
 ---
 

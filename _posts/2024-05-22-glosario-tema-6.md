@@ -3,7 +3,7 @@ title: Glosario Tema 6
 authors: [tomas, miguel, hector, matias, andres]
 date: 2024-5-22 10:30:00 +0800
 categories: [Grupal]
-tags: [glosario, grupo]
+tags: [glosario, grupo, tema6]
 comments: true
 ---
 
