@@ -5,6 +5,9 @@ date: 2023-11-20 10:30:00 +0800
 categories: [Grupal]
 tags: [glosario, tema2, grupo]
 comments: true
+image:
+  path: /assets/img/glosario.jpg
+  alt: Glosario
 ---
 
 # Definiciones

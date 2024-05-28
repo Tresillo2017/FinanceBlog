@@ -5,6 +5,9 @@ date: 2024-01-24 10:30:00 +0800
 categories: [Grupal]
 tags: [glosario, tema4, grupo]
 comments: true
+image:
+  path: /assets/img/glosario.jpg
+  alt: Glosario
 ---
 
 - **Medio de pago:** Un medio de pago es cualquier instrumento o método utilizado para realizar transacciones financieras y liquidar obligaciones. Puede incluir efectivo, cheques, tarjetas de débito o crédito, transferencias electrónicas, entre otros.

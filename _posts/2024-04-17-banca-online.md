@@ -5,6 +5,9 @@ date: 2024-04-17 10:30:00 +0800
 categories: [Grupal]
 tags: [trabajos, grupo]
 comments: true
+image:
+  path: /assets/img/bancaonline.jpg
+  alt: Banca Online
 ---
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;

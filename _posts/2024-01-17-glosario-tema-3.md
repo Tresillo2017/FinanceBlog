@@ -5,6 +5,9 @@ date: 2024-01-17 10:30:00 +0800
 categories: [Grupal]
 tags: [glosario, tema4, grupo]
 comments: true
+image:
+  path: /assets/img/glosario2.jpg
+  alt: Glosario
 ---
 
 ## La Bolsa

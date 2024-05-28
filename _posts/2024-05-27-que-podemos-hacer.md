@@ -5,6 +5,9 @@ date: 2024-5-27 10:30:00 +0800
 categories: [Grupal]
 tags: [glosario, grupo, tema6]
 comments: true
+image:
+  path: /assets/img/mundo.jpg
+  alt: Mundo
 ---
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%;

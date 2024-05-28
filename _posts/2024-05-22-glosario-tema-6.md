@@ -5,6 +5,9 @@ date: 2024-5-22 10:30:00 +0800
 categories: [Grupal]
 tags: [glosario, grupo, tema6]
 comments: true
+image:
+  path: /assets/img/glosario.jpg
+  alt: Glosario
 ---
 
 - **Desarrollo sostenible:** satisfacer las necesidades de todas las generaciones presentes sin poner en peligro que las futuras puedan hacer esto en un futuro.

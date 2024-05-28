@@ -5,6 +5,9 @@ date: 2024-04-24 10:30:00 +0800
 categories: [Grupal]
 tags: [glosario, grupo, tema5]
 comments: true
+image:
+  path: /assets/img/glosario2.jpg
+  alt: Glosario
 ---
 
 - **Consumo responsable:** actitud que implica que tomes decisiones razonando sobre su impacto ambiental, social o económico.

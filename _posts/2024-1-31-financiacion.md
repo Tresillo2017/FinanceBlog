@@ -5,6 +5,9 @@ date: 2024-01-31 10:30:00 +0800
 categories: [Grupal]
 tags: [glosario, tema4, grupo]
 comments: true
+image:
+  path: /assets/img/financiacion.jpg
+  alt: Financiacion
 ---
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;

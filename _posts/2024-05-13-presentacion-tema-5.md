@@ -5,6 +5,9 @@ date: 2024-05-13 10:30:00 +0800
 categories: [Grupal]
 tags: [presentacion, grupo, tema5]
 comments: true
+image:
+  path: /assets/img/presentacion.jpg
+  alt: Presentacion
 ---
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
