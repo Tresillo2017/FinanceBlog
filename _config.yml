@@ -55,9 +55,13 @@ webmaster_verifications:
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-google_analytics:
-  id: G-4N4SNZ0QVL # fill in your Google Analytics ID
+#google_analytics:
+#  id: G-4N4SNZ0QVL # fill in your Google Analytics ID
 
+analytics:
+  umami:
+    id: 56f5d30c-a510-47a8-a1c7-1b69a9540f5e
+    domain: fr.tomasps.com
 goatcounter:
   id: # fill in your Goatcounter ID
 
