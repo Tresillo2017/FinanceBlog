@@ -58,10 +58,10 @@ webmaster_verifications:
 google_analytics:
   id: G-4N4SNZ0QVL # fill in your Google Analytics ID
 
-#analytics:
-#  umami:
-#    id: 56f5d30c-a510-47a8-a1c7-1b69a9540f5e
-#    domain: fr.tomasps.com
+analytics:
+  umami:
+    id: 6e482f75-607f-4ee9-b3aa-30e20117bf41
+    domain: analytics.tomasps.com
 goatcounter:
   id: # fill in your Goatcounter ID
 
